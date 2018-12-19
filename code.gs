@@ -1,6 +1,5 @@
-var EMAIL_COL = 1;
-var NUM_COL = 2;
-
+var EMAIL_COL = 0;
+var NUM_COL = 1;
 
 var actions = {
   'check': {
